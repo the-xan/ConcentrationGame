@@ -13,6 +13,8 @@
 		4833490B28439F43000F41A3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4833490928439F43000F41A3 /* Main.storyboard */; };
 		4833490D28439F46000F41A3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4833490C28439F46000F41A3 /* Assets.xcassets */; };
 		4833491028439F46000F41A3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4833490E28439F46000F41A3 /* LaunchScreen.storyboard */; };
+		48375D7A2844BDBB00140ACC /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48375D792844BDBB00140ACC /* Card.swift */; };
+		48375D7D2844BE0800140ACC /* ConcentrationGameLogic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48375D7C2844BE0800140ACC /* ConcentrationGameLogic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		4833490C28439F46000F41A3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4833490F28439F46000F41A3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4833491128439F46000F41A3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		48375D792844BDBB00140ACC /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
+		48375D7C2844BE0800140ACC /* ConcentrationGameLogic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcentrationGameLogic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				4833490328439F43000F41A3 /* AppDelegate.swift */,
 				4833490528439F43000F41A3 /* SceneDelegate.swift */,
 				4833490728439F43000F41A3 /* ViewController.swift */,
+				48375D792844BDBB00140ACC /* Card.swift */,
+				48375D7C2844BE0800140ACC /* ConcentrationGameLogic.swift */,
 				4833490928439F43000F41A3 /* Main.storyboard */,
 				4833490C28439F46000F41A3 /* Assets.xcassets */,
 				4833490E28439F46000F41A3 /* LaunchScreen.storyboard */,
@@ -140,6 +146,8 @@
 				4833490828439F43000F41A3 /* ViewController.swift in Sources */,
 				4833490428439F43000F41A3 /* AppDelegate.swift in Sources */,
 				4833490628439F43000F41A3 /* SceneDelegate.swift in Sources */,
+				48375D7A2844BDBB00140ACC /* Card.swift in Sources */,
+				48375D7D2844BE0800140ACC /* ConcentrationGameLogic.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
